@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-30",
+      "excerpt": "```json",
+      "imageUrl": "https://pixabay.com/get/g345d11a5eb42905da8879f1ca008f9b55763d547e9b4d5b9ca94ff44c44c81c2cea1b0eee27865396a6edb5d81c23c37_640.jpg"
+    },
+    {
       "slug": "cs2-map-win-rate-betting-strategy",
       "title": "CS2賽事地圖勝率數據分析方法與電競博彩研究應用探討",
       "category": "undefined",
