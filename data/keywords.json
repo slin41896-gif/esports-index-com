@@ -39,8 +39,10 @@
       "category": "cs2-betting",
       "angle": "教學攻略型",
       "image_theme": "CS2 major tournament betting beginner guide",
-      "status": "available",
-      "writing_style": "操作指南體"
+      "status": "used",
+      "writing_style": "操作指南體",
+      "slug": "cs2-international-invitational-betting-guide-for-beginners",
+      "used_date": "2026-05-30"
     },
     {
       "id": 5,
