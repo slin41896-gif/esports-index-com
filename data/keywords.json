@@ -17,8 +17,10 @@
       "category": "cs2-betting",
       "angle": "疑問句型",
       "image_theme": "CS2 map win rate statistics analysis",
-      "status": "available",
-      "writing_style": "統計分析體"
+      "status": "used",
+      "writing_style": "統計分析體",
+      "slug": "cs2-map-win-rate-betting-strategy",
+      "used_date": "2026-05-30"
     },
     {
       "id": 3,
