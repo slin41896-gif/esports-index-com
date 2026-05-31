@@ -61,8 +61,10 @@
       "category": "cs2-betting",
       "angle": "疑問句型",
       "image_theme": "CS2 minor event odds volatility reason",
-      "status": "available",
-      "writing_style": "統計分析體"
+      "status": "used",
+      "writing_style": "統計分析體",
+      "slug": "cs2-small-match-odds-fluctuation-analysis",
+      "used_date": "2026-05-31"
     },
     {
       "id": 7,
