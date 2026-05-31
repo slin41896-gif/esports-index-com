@@ -50,8 +50,10 @@
       "category": "cs2-betting",
       "angle": "疑問句型",
       "image_theme": "CS2 handicap vs moneyline betting difference",
-      "status": "available",
-      "writing_style": "Q&A深度體"
+      "status": "used",
+      "writing_style": "Q&A深度體",
+      "slug": "cs2-handicap-vs-moneyline-betting-guide",
+      "used_date": "2026-05-31"
     },
     {
       "id": 6,
