@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "cs2-major-betting-data-analysis",
+      "title": "CS2 Major賽事投注前五大關鍵數據研究解析",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "每次CS2 Major大賽，我哋班兄弟都好緊張，想知邊隊會贏，點樣落注先最穩陣？今日就同大家分享我哋嘅獨家數據分析心法！",
+      "imageUrl": "https://pixabay.com/get/gfc710efe765659b6b7aaf3b9c19621d2ac446e610591e6b97d7e7b01b16d5140da0c29db86d5de2463ecb417340ad7584b675e399c2860fac0c66dcbdea6da40_640.jpg"
+    },
+    {
       "slug": "cs2-small-match-odds-fluctuation-analysis",
       "title": "CS2小型賽事賠率異常波動成因：市場流動性不足與信息不對稱之研究分析",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "玩CS2電競投注，你係咪成日俾讓分盤同獨贏搞到頭都大？我以前都係咁，但深入研究後發現，掌握佢哋嘅核心差異係贏錢關鍵！",
       "imageUrl": "https://pixabay.com/get/gde01d9c6f87cf578b925af081b48293f828b9cb1c515c26654ccf13c51e5c874200196673bd8e770f5ee82fdd1240fe71eec991e400c5450c4aa588ddcb3a5b5_640.jpg"
-    },
-    {
-      "slug": "cs2-international-invitational-betting-guide-for-beginners",
-      "title": "CS2國際邀請賽投注研究：新手入門核心知識框架解析",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "作為一個電競迷，我深明CS2國際邀請賽嘅魅力！想入場玩投注，但又怕無從入手？今日就等我帶你拆解核心知識！",
-      "imageUrl": "https://pixabay.com/get/g108e4f9bd713f052277fdedad0a22a71a8fb8856e09fe53d58cbb77bd22f38d85ec4b0d29553722b51e76a5cea54036e91df2fa06158fb1f0c3c1130802669de_640.jpg"
     }
   ]
 }
