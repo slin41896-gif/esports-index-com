@@ -72,8 +72,10 @@
       "category": "cs2-betting",
       "angle": "教學攻略型",
       "image_theme": "CS2 major event betting five key statistics",
-      "status": "available",
-      "writing_style": "操作指南體"
+      "status": "used",
+      "writing_style": "操作指南體",
+      "slug": "cs2-major-betting-data-analysis",
+      "used_date": "2026-05-31"
     },
     {
       "id": 8,
