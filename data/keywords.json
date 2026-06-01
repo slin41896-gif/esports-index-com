@@ -94,8 +94,10 @@
       "category": "cs2-betting",
       "angle": "疑問句型",
       "image_theme": "CS2 esports betting odds reading beginner",
-      "status": "available",
-      "writing_style": "操作指南體"
+      "status": "used",
+      "writing_style": "操作指南體",
+      "slug": "cs2-esports-betting-odds-strategy",
+      "used_date": "2026-06-01"
     },
     {
       "id": 10,
