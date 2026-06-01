@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "cs2-esports-betting-odds-strategy",
+      "title": "CS2電競投注盤口解讀：新手必須掌握的賠率結構與市場分析方法",
+      "category": "undefined",
+      "date": "2026-06-01",
+      "excerpt": "玩CS2咁耐，想將對遊戲嘅熱情轉化為實質收入？我哋一齊揭開電競投注嘅神秘面紗，學識點樣睇盤口，提高你嘅勝算！",
+      "imageUrl": "https://pixabay.com/get/gb52709a0e4c150fc622aa983bf96c70c4b0f8ca065fba1b5a5a12b2a40385d42d4a7bf86d60dc0b66044df5d08768d6bacdee1def55e596c094ef983b981ab55_640.jpg"
+    },
+    {
       "slug": "cs2-map-win-rate-analysis-strategy",
       "title": "CS2各隊伍特定地圖勝率分析：主場優勢與戰術體系深度研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "每次CS2 Major大賽，我哋班兄弟都好緊張，想知邊隊會贏，點樣落注先最穩陣？今日就同大家分享我哋嘅獨家數據分析心法！",
       "imageUrl": "https://pixabay.com/get/gfc710efe765659b6b7aaf3b9c19621d2ac446e610591e6b97d7e7b01b16d5140da0c29db86d5de2463ecb417340ad7584b675e399c2860fac0c66dcbdea6da40_640.jpg"
-    },
-    {
-      "slug": "cs2-small-match-odds-fluctuation-analysis",
-      "title": "CS2小型賽事賠率異常波動成因：市場流動性不足與信息不對稱之研究分析",
-      "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "玩CS2細賽，見到賠率上上落落搞到心都離一離？我哋一齊揭開呢啲神秘波動背後嘅真相！",
-      "imageUrl": "https://pixabay.com/get/g791ba021fed464b8e49f6f500df73f8c7bc2d152f13c0f97c60ed489fbfbc139a59daa82885535ff82c27d2b5a73bb5867812810754da76858001da498aeecd8_640.jpg"
     }
   ]
 }
