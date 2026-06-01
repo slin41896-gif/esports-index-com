@@ -83,8 +83,10 @@
       "category": "cs2-betting",
       "angle": "疑問句型",
       "image_theme": "CS2 team map specialist statistics ranking",
-      "status": "available",
-      "writing_style": "統計分析體"
+      "status": "used",
+      "writing_style": "統計分析體",
+      "slug": "cs2-map-win-rate-analysis-strategy",
+      "used_date": "2026-06-01"
     },
     {
       "id": 9,
