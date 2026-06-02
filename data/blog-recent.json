@@ -1,28 +1,28 @@
 {
   "articles": [
     {
-      "slug": "cs2-esports-betting-odds-strategy",
-      "title": "CS2電競投注盤口解讀：新手必須掌握的賠率結構與市場分析方法",
-      "category": "undefined",
-      "date": "2026-06-01",
-      "excerpt": "玩CS2咁耐，想將對遊戲嘅熱情轉化為實質收入？我哋一齊揭開電競投注嘅神秘面紗，學識點樣睇盤口，提高你嘅勝算！",
-      "imageUrl": "https://pixabay.com/get/gb52709a0e4c150fc622aa983bf96c70c4b0f8ca065fba1b5a5a12b2a40385d42d4a7bf86d60dc0b66044df5d08768d6bacdee1def55e596c094ef983b981ab55_640.jpg"
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-06-02",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/gbf8fd0f2199a482f80854031000a07fbef8f7c2954211a52a0dcb8e1b69779da51e61d45ff019aed30ca71f508735d06_640.jpg"
     },
     {
-      "slug": "cs2-map-win-rate-analysis-strategy",
-      "title": "CS2各隊伍特定地圖勝率分析：主場優勢與戰術體系深度研究",
+      "slug": "2025-cs2-world-championship-odds-analysis",
+      "title": "2025年CS2世界錦標賽賠率結構與投注市場深度分析報告",
       "category": "undefined",
-      "date": "2026-06-01",
-      "excerpt": "玩CS2投注，我哋唔係盲目跟風，要贏錢就要有策略！今日就同大家深入研究地圖勝率呢個核心數據。",
-      "imageUrl": "https://pixabay.com/get/g70b2cdd05a3a49a12b75c3390638b385e363c5d4425ef3c32330c6ac6222875950d6c250b19288f8c6c370352d6ff6fa3ac04ece6f9bed75a79b70ba81b52bd6_640.jpg"
+      "date": "2026-06-02",
+      "excerpt": "嘩！2025年CS2世錦賽又嚟喇，我哋班賭仔又係時候磨拳擦掌，到底點樣先可以喺呢個大賽贏錢？",
+      "imageUrl": "https://pixabay.com/get/gedf386af7c8fc104a90ee83fe296ee3ff814fdbc8f94d690c0bcfec90c71973b997d6a8c21494c6a4d2cf8712da4df68c14e27d86269ff9735fea3b543ef8c61_640.jpg"
     },
     {
-      "slug": "cs2-major-betting-data-analysis",
-      "title": "CS2 Major賽事投注前五大關鍵數據研究解析",
+      "slug": "cs2-kda-data-esports-prediction-accuracy",
+      "title": "CS2選手KDA數據對電子競技賽事結果預測準確性之影響研究",
       "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "每次CS2 Major大賽，我哋班兄弟都好緊張，想知邊隊會贏，點樣落注先最穩陣？今日就同大家分享我哋嘅獨家數據分析心法！",
-      "imageUrl": "https://pixabay.com/get/gfc710efe765659b6b7aaf3b9c19621d2ac446e610591e6b97d7e7b01b16d5140da0c29db86d5de2463ecb417340ad7584b675e399c2860fac0c66dcbdea6da40_640.jpg"
+      "date": "2026-06-02",
+      "excerpt": "玩CS2咁耐，你係咪都試過齋睇KDA就估邊隊會贏？我哋今日就嚟拆解下呢個數據背後嘅秘密！",
+      "imageUrl": "https://pixabay.com/get/gc945cc4d98ecc1644e58ff0739d10e7daf6d489296f778a479f085feeb732221c32c55c5849e1bafe7ff1886e86ac720215c1cd2f76413f17e4c762cf04dc8c8_640.jpg"
     }
   ]
 }

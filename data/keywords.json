@@ -105,8 +105,10 @@
       "category": "cs2-betting",
       "angle": "疑問句型",
       "image_theme": "CS2 player KDA statistics match prediction",
-      "status": "available",
-      "writing_style": "統計分析體"
+      "status": "used",
+      "writing_style": "統計分析體",
+      "slug": "cs2-kda-data-esports-prediction-accuracy",
+      "used_date": "2026-06-02"
     },
     {
       "id": 11,
@@ -114,8 +116,10 @@
       "category": "cs2-betting",
       "angle": "時事賽事型",
       "image_theme": "CS2 world championship 2025 betting preview analysis",
-      "status": "available",
-      "writing_style": "評測報告體"
+      "status": "used",
+      "writing_style": "評測報告體",
+      "slug": "2025-cs2-world-championship-odds-analysis",
+      "used_date": "2026-06-02"
     },
     {
       "id": 12,
@@ -123,8 +127,10 @@
       "category": "cs2-betting",
       "angle": "教學攻略型",
       "image_theme": "CS2 betting bankroll management strategy guide",
-      "status": "available",
-      "writing_style": "操作指南體"
+      "status": "used",
+      "writing_style": "操作指南體",
+      "slug": "article",
+      "used_date": "2026-06-02"
     },
     {
       "id": 13,
