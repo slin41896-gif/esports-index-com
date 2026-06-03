@@ -138,8 +138,10 @@
       "category": "lol-betting",
       "angle": "疑問句型",
       "image_theme": "LOL dragon control rate statistics analysis",
-      "status": "available",
-      "writing_style": "統計分析體"
+      "status": "used",
+      "writing_style": "統計分析體",
+      "slug": "article",
+      "used_date": "2026-06-02"
     },
     {
       "id": 14,
@@ -147,8 +149,10 @@
       "category": "lol-betting",
       "angle": "疑問句型",
       "image_theme": "League of Legends region best betting value",
-      "status": "available",
-      "writing_style": "評測報告體"
+      "status": "used",
+      "writing_style": "評測報告體",
+      "slug": "article",
+      "used_date": "2026-06-03"
     },
     {
       "id": 15,
@@ -156,8 +160,10 @@
       "category": "lol-betting",
       "angle": "疑問句型",
       "image_theme": "LOL patch update impact betting strategy",
-      "status": "available",
-      "writing_style": "Q&A深度體"
+      "status": "used",
+      "writing_style": "Q&A深度體",
+      "slug": "lol-pro-patch-betting-strategy",
+      "used_date": "2026-06-03"
     },
     {
       "id": 16,
